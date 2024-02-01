@@ -1,5 +1,5 @@
 # MYGITACTIONS
- [HERE IS THE TUTORIAL LINK:](https://www.youtube.com/watch?v=your_video_id "TUTORIAL")
+ [HERE IS THE TUTORIAL LINK](https://www.youtube.com/watch?v=your_video_id "TUTORIAL")
 
 
 ## UPDATES
